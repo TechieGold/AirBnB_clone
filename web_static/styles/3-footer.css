@@ -5,6 +5,7 @@ footer{
     bottom: 0;
     position: absolute;
     display: grid;
+    border-top: 1px solid #CCCCCC;
 }
 footer p{
     text-align: center;
