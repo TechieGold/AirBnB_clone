@@ -1,0 +1,12 @@
+footer{
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    display: grid;
+}
+footer p{
+    text-align: center;
+    margin: 20px;
+}
